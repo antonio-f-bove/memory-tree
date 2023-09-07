@@ -1,0 +1,7 @@
+{
+  "name": "memory-tree",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
